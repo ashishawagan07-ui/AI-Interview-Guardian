@@ -1,0 +1,34 @@
+[
+    {
+        "username": "om@gmail.com",
+        "name": "Om",
+        "question": "Explain machine learning and give a practical example.",
+        "answer": "Machine learning very poewer full model and create a frontend and backend give the using application and so as well as Ml is strong model create gradentent boosting and decision tree and random frorest using strong model",
+        "target_role": "MIS Analyst",
+        "difficulty": "Hard",
+        "topic": "Machine Learning",
+        "primary_skill": "Statistics",
+        "overall_score": 60,
+        "technical_score": 40,
+        "relevance_score": 50,
+        "communication_score": 30,
+        "ai_feedback": "Overall Score: 60\nTechnical Score: 40\nRelevance Score: 50\nCommunication Score: 30\n\nStrengths:\n- The candidate attempted to provide a high-level overview of machine learning.\n- They mentioned some common machine learning algorithms.\n\nImprovements:\n- The answer was too vague and lacked specific details.\n- The candidate failed to provide a practical example of machine learning in action.\n- The explanation of algorithms was brief and lacked depth.\n\nShort Feedback:\nThe candidate needs to provide more specific examples and details to demonstrate their understanding of machine learning. A practical example would help to illustrate their technical skills.",
+        "timestamp": "2026-09-17 16:29:01"
+    },
+    {
+        "username": "ashish@gmail.com",
+        "name": "ashish@gmail.com",
+        "question": "What are the best practices for bi?",
+        "answer": "Best practice in bi create dashboard and data cleaning as load data in transfer data",
+        "target_role": "Data Science Intern",
+        "difficulty": "Hard",
+        "topic": "BI",
+        "primary_skill": "ETL",
+        "overall_score": 60,
+        "technical_score": 40,
+        "relevance_score": 70,
+        "communication_score": 30,
+        "ai_feedback": "Overall Score: 60\nTechnical Score: 40\nRelevance Score: 70\nCommunication Score: 30\n\nStrengths:\n- The candidate mentioned data cleaning, which is a crucial step in data analysis.\n- They mentioned creating a dashboard, which is a common requirement in data science projects.\n\nImprovements:\n- The candidate's answer lacks technical details and specific tools or techniques used in data analysis.\n- The answer does not demonstrate a clear understanding of the data science process or the importance of validation and assumption checking.\n- The communication is brief and lacks clarity, making it difficult to understand the candidate's thought process.\n\nShort Feedback:\nThe candidate needs to provide more technical details and demonstrate a clear understanding of the data science process. They should also work on improving their communication skills to clearly explain their thought process and approach.",
+        "timestamp": "2026-09-22 15:10:33"
+    }
+]

@@ -1,0 +1,15 @@
+username,date,question,role,topic,overall,technical,relevance,communication
+ashish@gmail.com,2026-09-17 14:04:33,What is the difference between two approaches in excel?,Data Analyst,Excel,60,40,20,0
+ashish@gmail.com,2026-09-17 14:06:40,Tell me about your experience with Excel.,Data Analyst,Excel,60,40,20,20
+ashish@gmail.com,2026-09-17 14:08:44,What are the best practices for python?,Data Scientist,Python,60,40,20,20
+ashish@gmail.com,2026-09-28 17:16:31,How would you handle a challenging analytics scenario?,Data Analyst,Analytics,60,40,70,30
+ashish@gmail.com,2026-09-29 13:07:26,How would you handle a challenging analytics scenario?,Data Analyst,Analytics,82,90,80,75
+ashish@gmail.com,2026-09-29 13:11:51,Tell me about your experience with Excel.,Data Analyst,Analytics,40,30,20,30
+ashish@gmail.com,2026-09-29 13:17:48,Tell me about your experience with Python.,Data Analyst,Analytics,60,40,30,30
+ashish@gmail.com,2026-09-29 13:24:44,How would you handle a challenging analytics scenario?,Data Analyst,Analytics,60,40,70,30
+ashish@gmail.com,2026-09-29 13:27:56,Tell me about your experience with Pandas.,Data Analyst,Analytics,72,80,60,40
+ashish@gmail.com,2026-10-03 15:17:42,Explain sql and give a practical example.,Data Analyst,SQL,20,30,10,30
+ashish@gmail.com,2026-10-06 14:30:54,Explain analytics and give a practical example.,Data Analyst,Analytics,82,80,85,78
+ashish@gmail.com,2026-10-06 14:34:44,What is the difference between two approaches in introduction?,Data Analyst,Introduction,60,40,20,0
+ashish@gmail.com,2026-10-06 14:40:09,What is the difference between two approaches in sql?,Data Analyst,SQL,40,30,20,40
+ashish@gmail.com,2026-10-06 14:42:14,Explain sql and give a practical example.,Data Analyst,SQL,30,20,10,0
